@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Vacation",
+    "date": "2023-07-12",
+    "photos": [
+      "https://images.pexels.com/photos/4502676/pexels-photo-4502676.jpeg",
+      "https://images.pexels.com/photos/27168459/pexels-photo-27168459/free-photo-of-a-clock-tower-is-in-the-foreground-of-a-blurry-photo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/4502678/pexels-photo-4502678.jpeg",
+      "https://images.pexels.com/photos/4502679/pexels-photo-4502679.jpeg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Family",
+    "date": "2023-06-10",
+    "photos": [
+      "https://images.pexels.com/photos/4502680/pexels-photo-4502680.jpeg",
+      "https://images.pexels.com/photos/4502681/pexels-photo-4502681.jpeg"
+    ]
+  }
+]
