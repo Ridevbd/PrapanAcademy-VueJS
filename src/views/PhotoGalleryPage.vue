@@ -17,7 +17,7 @@
           <Slider
             :is-open="sliderOpen"
             :photos="selectedPhotos"
-            @close="sliderOpen = false"
+            @close="closeSlider"
           />
         </div>
       </div>
@@ -45,7 +45,7 @@
       const currentPhotos = ref([]);
       const sliderOpen = ref(false);
       const selectedPhotos = ref([]);
-      const albumsPerPage = 2; // Adjust this to how many albums you want per page
+      const albumsPerPage = 10; // Adjust this to how many albums you want per page
       const currentPage = ref(1);
   
       const getPaginatedAlbums = (page) => {
@@ -58,9 +58,24 @@
         paginatedAlbums.value = getPaginatedAlbums(page);
       };
   
+      // const openSlider = (photo) => {
+      //   selectedPhotos.value = currentPhotos.value; // Assign all current photos to selectedPhotos
+      //   sliderOpen.value = true; // Open the slider
+      // };
+
       const openSlider = (photo) => {
-        selectedPhotos.value = currentPhotos.value; // Assign all current photos to selectedPhotos
+        // Reorder the photos so that the clicked photo is first
+        selectedPhotos.value = [
+          photo,
+          ...currentPhotos.value.filter((p) => p !== photo),
+        ];
+
         sliderOpen.value = true; // Open the slider
+      };
+
+      const closeSlider = () => {
+        sliderOpen.value = false;
+        selectedPhotos.value = []; // Clear selected photos when closing
       };
   
       const selectAlbum = (album) => {
@@ -88,6 +103,7 @@
         sliderOpen,
         selectedPhotos,
         selectAlbum,
+        closeSlider,
       };
     },
   };

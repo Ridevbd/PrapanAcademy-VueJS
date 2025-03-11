@@ -19,7 +19,7 @@
   export default {
     data() {
       return {
-        backgroundImage: 'src/assets/images/parallax-img-1.jpg',
+        backgroundImage: '/assets/images/parallax-img-1.jpg',
       };
     },
   };

@@ -4,7 +4,7 @@
       <section class="section section-lg bg-default">
         <div class="container">
           <div class="row row-50">
-            <div class="col-lg-6 pe-xl-5"><img src="../assets/images/about-us/about-us (1).jpg" alt="" width="518" height="430">
+            <div class="col-lg-6 pe-xl-5"><img src="/assets/images/about-us/about-us (1).jpg" alt="" width="518" height="430">
             </div>
             <div class="col-lg-6">
               <h3 class="fw-medium">Welcome to Dance Academy</h3>
@@ -20,7 +20,7 @@
         <div class="container">
          
           <div class="row">
-            <div class="col-12"><img src="../assets/images/about-us/about-us (2).jpg" alt="" width="1170" height="456">
+            <div class="col-12"><img src="/assets/images/about-us/about-us (2).jpg" alt="" width="1170" height="456">
             </div>
           </div>
           <div class="row row-50">
@@ -34,7 +34,7 @@
                         <p><strong>Ananya Barua</strong><br>
                         Managing Director, Prapan Academy<br>
                         Mobile: 01711-106808<br>
-                        E-mail: ananyact7@yahoo.com, ananyadance7@gmail.com<br>
+                        E-mail: ananyasprapan@gmail.com<br>
                         Web Site: <a href="http://www.prapan.org">www.prapan.org</a></p>
                             <br>
                         <h5>Activities:</h5>
@@ -66,13 +66,13 @@
             </div>
             <div class="col-lg-5 pe-lg-5">
               <div class="row row-50">
-                <div class="col-sm-6 col-lg-12"><img src="../assets/images/about-us/about-us (3).jpg" alt="" width="398" height="283">
+                <div class="col-sm-6 col-lg-12"><img src="/assets/images/about-us/about-us (4).jpg" alt="" width="398" height="283">
                 </div>
-                <div class="col-sm-6 col-lg-12"><img src="../assets/images/about-us/about-us (4).jpg" alt="" width="398" height="283">
+                <div class="col-sm-6 col-lg-12"><img src="/assets/images/about-us/about-us (3).jpg" alt="" width="398" height="283">
                 </div>
-                <div class="col-sm-6 col-lg-12"><img src="../assets/images/about-us/about-us (5).jpg" alt="" width="398" height="283">
+                <div class="col-sm-6 col-lg-12"><img src="/assets/images/about-us/about-us (5).jpg" alt="" width="398" height="283">
                 </div>
-                <div class="col-sm-6 col-lg-12"><img src="../assets/images/about-us/about-us (6).jpg" alt="" width="398" height="283">
+                <div class="col-sm-6 col-lg-12"><img src="/assets/images/about-us/about-us (6).jpg" alt="" width="398" height="283">
                 </div>
               </div>
             </div>

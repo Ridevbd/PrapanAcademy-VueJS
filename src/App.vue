@@ -6,15 +6,29 @@ import { RouterView } from 'vue-router';
 <template>
 
 
-<nav class="rd-navbar rd-navbar-modern" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-fixed" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+<nav class="rd-navbar rd-navbar-modern"
+ data-layout="rd-navbar-fixed"
+  data-sm-layout="rd-navbar-fixed"
+   data-md-layout="rd-navbar-fixed"
+    data-md-device-layout="rd-navbar-fixed"
+     data-lg-layout="rd-navbar-fixed"
+      data-lg-device-layout="rd-navbar-fixed"
+       data-xl-layout="rd-navbar-static"
+        data-xl-device-layout="rd-navbar-static"
+         data-lg-stick-up-offset="46px"
+          data-xl-stick-up-offset="46px"
+           data-xxl-stick-up-offset="46px"
+            data-lg-stick-up="true"
+             data-xl-stick-up="true"
+              data-xxl-stick-up="true">
   <div class="rd-navbar-main-outer">
     <div class="rd-navbar-main">
       <div class="rd-navbar-panel">
         <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
         <div class="rd-navbar-brand">
           <a class="brand" href="/">
-            <img class="brand-logo-dark" src="./assets/images/logo-default-303x84.png" alt="Logo Dark" width="151" height="42"/>
-            <img class="brand-logo-light" src="./assets/images/logo-inverse-303x84" alt="Logo Light" width="151" height="42"/>
+            <img class="brand-logo-dark" src="/assets/images/logo-default-303x84.png" alt="Logo Dark" width="151" height="42"/>
+            <img class="brand-logo-light" src="/assets/images/logo-inverse-303x84.png" alt="Logo Light" width="151" height="42"/>
           </a>
         </div>
       </div>
@@ -103,8 +117,8 @@ import { RouterView } from 'vue-router';
                   <div class="col-md-6">
                     <h5 class="footer-title">Address & Phone</h5>
                     <ul class="list-contact-info">
-                      <li><span class="icon mdi mdi-map-marker icon-md icon-secondary"></span><span class="list-item-text"><a href="#"><span class="text-primary-light">School Location</span><br>51 Francis Street, Darlinghurst NSW 2010, United States</a></span></li>
-                      <li><span class="icon mdi mdi-phone icon-md icon-secondary"></span><span class="list-item-text"><a href="tel:#">1-800-123-1234</a></span></li>
+                      <li><span class="icon mdi mdi-map-marker icon-md icon-secondary"></span><span class="list-item-text"><a href="#"><span class="text-primary-light">School Location: </span>395, M M Ali Road, Damphara, Chattogram<br></a></span></li>
+                      <li><span class="icon mdi mdi-phone icon-md icon-secondary"></span><span class="list-item-text"><a href="tel:#">+880 01711-106808</a></span></li>
                     </ul>
                   </div>
                   <div class="col-md-6">
@@ -124,12 +138,14 @@ import { RouterView } from 'vue-router';
               <div class="wow slideInLeft">
                 <div class="row row-30">
                   <div class="col-12">
-                    <!--Brand--><a class="brand" href="/"><img class="brand-logo-dark" src="./assets/images/logo-default-303x84.png" alt="" width="151" height="42"><img class="brand-logo-light" src="./assets/images/logo-inverse-303x84.png" alt="" width="151" height="42"></a>
+                    <!--Brand--><a class="brand" href="/"><img class="brand-logo-dark" src="/assets/images/logo-default-303x84.png" alt="" width="151" height="42"><img class="brand-logo-light" src="/assets/images/logo-inverse-303x84.png" alt="" width="151" height="42"></a>
                   </div>
                   <div class="col-12">
                     <p>Prapan Academy specializes in providing professional dance training, organizing performances, and hosting workshops. We focus on nurturing talent, fostering creativity, and empowering individuals through the art of dance.</p>
                     <div class="footer-divider"></div>
-                    <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Ridwan Tusmiah</span><span>. All Rights Reserved.&nbsp;</span><a href="privacy-policy.html">Privacy Policy</a></p>
+                    <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span><a class="team-name" href="https://facebook.com/ri.tusmiah" target="_blank" rel="noopener noreferrer" style="color: lightblue;">
+  Ridwan Tusmiah
+</a></span><span>. All Rights Reserved.&nbsp;</span><a href="privacy-policy.html">Privacy Policy</a></p>
                   </div>
                 </div>
               </div>

@@ -8,7 +8,7 @@
               <div class="row row-50 justify-content-center">
                 <div class="col-md-4">
                   <div class="post-classic">
-                    <div class="post-classic-figure"><a href="#"><img src="../assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
+                    <div class="post-classic-figure"><a href="#"><img src="/assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
                     <div class="post-classic-caption">
                       <h4 class="post-classic-title"><a href="">This is an achivement by Ananya Barua</a></h4>
                       <ul class="post-classic-meta">
@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-md-4">
                   <div class="post-classic">
-                    <div class="post-classic-figure"><a href="#"><img src="../assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
+                    <div class="post-classic-figure"><a href="#"><img src="/assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
                     <div class="post-classic-caption">
                       <h4 class="post-classic-title"><a href="">This is an achivement by Ananya Barua</a></h4>
                       <ul class="post-classic-meta">
@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-md-4">
                   <div class="post-classic">
-                    <div class="post-classic-figure"><a href="#"><img src="../assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
+                    <div class="post-classic-figure"><a href="#"><img src="/assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
                     <div class="post-classic-caption">
                       <h4 class="post-classic-title"><a href="">This is an achivement by Ananya Barua</a></h4>
                       <ul class="post-classic-meta">
@@ -44,7 +44,7 @@
                 </div>
                 <div class="col-md-4">
                   <div class="post-classic">
-                    <div class="post-classic-figure"><a href="#"><img src="../assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
+                    <div class="post-classic-figure"><a href="#"><img src="/assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
                     <div class="post-classic-caption">
                       <h4 class="post-classic-title"><a href="">This is an achivement by Ananya Barua</a></h4>
                       <ul class="post-classic-meta">
@@ -56,7 +56,7 @@
                 </div>
                 <div class="col-md-4">
                   <div class="post-classic">
-                    <div class="post-classic-figure"><a href="#"><img src="../assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
+                    <div class="post-classic-figure"><a href="#"><img src="/assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
                     <div class="post-classic-caption">
                       <h4 class="post-classic-title"><a href="">This is an achivement by Ananya Barua</a></h4>
                       <ul class="post-classic-meta">
@@ -68,7 +68,7 @@
                 </div>
                 <div class="col-md-4">
                   <div class="post-classic">
-                    <div class="post-classic-figure"><a href="#"><img src="../assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
+                    <div class="post-classic-figure"><a href="#"><img src="/assets/images/achivements/achivement.jpg" alt="" width="370" height="255"></a></div>
                     <div class="post-classic-caption">
                       <h4 class="post-classic-title"><a href="">This is an achivement by Ananya Barua</a></h4>
                       <ul class="post-classic-meta">

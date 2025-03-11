@@ -1,22 +1,131 @@
 [
   {
     "id": 1,
-    "name": "Vacation",
+    "name": "Cox-bazar CNF",
     "date": "2023-07-12",
     "photos": [
-      "https://images.pexels.com/photos/4502676/pexels-photo-4502676.jpeg",
-      "https://images.pexels.com/photos/27168459/pexels-photo-27168459/free-photo-of-a-clock-tower-is-in-the-foreground-of-a-blurry-photo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "https://images.pexels.com/photos/4502678/pexels-photo-4502678.jpeg",
-      "https://images.pexels.com/photos/4502679/pexels-photo-4502679.jpeg"
+      "/images/photogallerypage/cnfprapan/IMG_7794.jpg",
+      "/images/photogallerypage/cnfprapan/IMG_7958.jpg",
+      "/images/photogallerypage/cnfprapan/IMG_7959.jpg",
+      "/images/photogallerypage/cnfprapan/IMG_7978.jpg",
+      "/images/photogallerypage/cnfprapan/IMG_7981.jpg",
+      "/images/photogallerypage/cnfprapan/IMG_7988.jpg",
+      "/images/photogallerypage/cnfprapan/IMG_8033.jpg",
+      "/images/photogallerypage/cnfprapan/IMG_8084.jpg",
+      "/images/photogallerypage/cnfprapan/IMG_8139.jpg",
+      "/images/photogallerypage/cnfprapan/IMG_8149.jpg"
+      
+      
     ]
   },
   {
     "id": 2,
-    "name": "Family",
+    "name": "Zia Cricket Tournament",
     "date": "2023-06-10",
     "photos": [
-      "https://images.pexels.com/photos/4502680/pexels-photo-4502680.jpeg",
-      "https://images.pexels.com/photos/4502681/pexels-photo-4502681.jpeg"
+      "/images/photogallerypage/zia_cricket_tournament/_MG_1230.jpg",
+      "/images/photogallerypage/zia_cricket_tournament/_MG_1225.jpg",
+      "/images/photogallerypage/zia_cricket_tournament/_MG_1237.jpg",
+      "/images/photogallerypage/zia_cricket_tournament/_MG_1238.jpg",
+      "/images/photogallerypage/zia_cricket_tournament/_MG_1242.jpg",
+      "/images/photogallerypage/zia_cricket_tournament/_MG_1245.jpg",
+      "/images/photogallerypage/zia_cricket_tournament/_MG_1253.jpg",
+      "/images/photogallerypage/zia_cricket_tournament/_MG_1256.jpg",
+      "/images/photogallerypage/zia_cricket_tournament/_MG_1259.jpg"
+      
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Prapan Academy Class Party",
+    "date": "2023-06-10",
+    "photos": [
+      "/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (1).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (2).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (3).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (4).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (5).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (6).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (7).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (8).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (9).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (10).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (11).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (12).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (13).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (14).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (15).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (16).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (17).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (18).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (19).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (20).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (21).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (22).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (23).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (24).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (25).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (26).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (27).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (28).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (29).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (30).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (31).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (32).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (33).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (34).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (35).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (36).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (37).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (38).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (39).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (40).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (41).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (42).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (43).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (44).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (45).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (46).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (47).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (48).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (49).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (50).jpg",
+"/images/photogallerypage/prapan_class_party/prapan_class_party_serial_ (51).jpg"
+
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bangabandu Tunnel",
+    "date": "2023-06-10",
+    "photos": [
+      
+      "/images/photogallerypage/tunnel/b-tunnel (1).jpeg",
+      "/images/photogallerypage/tunnel/b-tunnel (2).jpeg",
+      "/images/photogallerypage/tunnel/b-tunnel (3).jpeg"
+      
+    ]
+  },
+  {
+    "id": 5,
+    "name": "All TV Program",
+    "date": "2023-06-10",
+    "photos": [
+      "/images/photogallerypage/btv/tv (1).jpeg",
+      "/images/photogallerypage/btv/tv (2).jpeg",
+      "/images/photogallerypage/btv/tv (3).jpeg",
+      "/images/photogallerypage/btv/tv (4).jpeg",
+      "/images/photogallerypage/btv/tv (5).jpeg",
+      "/images/photogallerypage/btv/tv (6).jpeg",
+      "/images/photogallerypage/btv/tv (7).jpeg",
+      "/images/photogallerypage/btv/tv (8).jpeg",
+      "/images/photogallerypage/btv/tv (9).jpeg",
+      "/images/photogallerypage/btv/tv (10).jpeg",
+      "/images/photogallerypage/btv/tv (11).jpeg",
+      "/images/photogallerypage/btv/tv (12).jpeg",
+      "/images/photogallerypage/btv/tv (13).jpeg",
+      "/images/photogallerypage/btv/tv (14).jpeg",
+      "/images/photogallerypage/btv/tv (15).jpeg"
     ]
   }
 ]

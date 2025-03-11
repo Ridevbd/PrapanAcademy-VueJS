@@ -1,6 +1,6 @@
 <template>
 
-<section class="parallax-container" data-parallax-img="">
+<!-- <section class="parallax-container" data-parallax-img="">
         <div class="parallax-content breadcrumbs-custom context-light decorated-section-6">
           <div class="container">
             <div class="row justify-content-center">
@@ -68,7 +68,7 @@
          
         </div>
      </section>
-    
+     -->
     
     </template>
     

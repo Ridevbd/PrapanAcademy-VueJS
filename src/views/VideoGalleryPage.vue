@@ -5,12 +5,18 @@
         const videoLoaded = ref<boolean[]>([]);
         const thumbnailUrls = ref<string[]>([]);
         const videos = ref([
-        { id: 1, title: '', subtitle: 'Animation Short Film', delay: '.1s', videoUrl: 'https://www.youtube.com/watch?v=YE7VzlLtp-4' },
-        { id: 2, title: '', subtitle: 'Blender Animation', delay: '.2s', videoUrl: 'https://www.youtube.com/watch?v=eRsGyueVLvQ' },
-        { id: 3, title: '', subtitle: 'Sci-Fi Short Film', delay: '.3s', videoUrl: 'https://www.youtube.com/watch?v=R6MlUcmOul8' },
-        { id: 4, title: '', subtitle: 'Orange Project', delay: '.4s', videoUrl: 'https://www.youtube.com/watch?v=TLkA0RELQ1g' },
-        { id: 5, title: '', subtitle: 'First Cycle', delay: '.5s', videoUrl: 'https://www.youtube.com/watch?v=Y-rmzh0PI3c' },
-        { id: 6, title: '', subtitle: 'Blender Open Movie', delay: '.6s', videoUrl: 'https://www.youtube.com/watch?v=WhWc3b3KhnY' }
+        { id: 1, title: '', subtitle: '', delay: '.1s', videoUrl: 'https://youtu.be/B5DVbu20wvk?si=iwn25HiO2zFyjC12' },
+        { id: 2, title: '', subtitle: '', delay: '.2s', videoUrl: 'https://youtu.be/ynq6W8sMKR0?si=-A9bAVxuPOkMtYp0' },
+        { id: 3, title: '', subtitle: '', delay: '.3s', videoUrl: 'https://youtu.be/QQW4Xv5FiDY?si=3mjRmMC6Krxp4RM6' },
+        { id: 4, title: '', subtitle: '', delay: '.4s', videoUrl: 'https://youtu.be/-A5usgqeidk?si=Qqz12FoFX0uXsgs6' },
+        { id: 5, title: '', subtitle: '', delay: '.5s', videoUrl: 'https://youtu.be/Gc_9eYq_Uzo?si=5ZKlgMR3fa3c07Df' },
+
+        
+
+        { id: 6, title: '', subtitle: '', delay: '.6s', videoUrl: 'https://youtu.be/FJGxTRairwM?si=cSitsdWAfrs-GEoX' },
+        { id: 7, title: '', subtitle: '', delay: '.7s', videoUrl: 'https://youtu.be/C6eyA7-ojqw?si=FVXzmqniYNnBBV1G' },
+        { id: 8, title: '', subtitle: '', delay: '.8s', videoUrl: 'https://youtu.be/IlQt_B042GA?si=wihsxO_PU4rVdWuN' },
+       { id: 9, title: '', subtitle: '', delay: '.9s', videoUrl: 'https://youtu.be/0QL064jjoP8?si=3Eg_0342vM4ZmsS8' },
         ]);
 
         const pauseVideo = (index: number) => {

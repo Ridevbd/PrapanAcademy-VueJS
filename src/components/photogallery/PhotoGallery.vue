@@ -34,11 +34,14 @@ export default {
   position: relative;
 }
 
+
 .large-photo {
-  width: 100%; /* Full width of the card */
-  height: auto; /* Maintain aspect ratio */
-  max-height: 300px; /* Set a maximum height for the images */
+   width: 100%; /* Full width of the card */
+  height: 100%; /* Ensure the height fits the card */
+  object-fit: contain; /* Ensures the image fits without cropping or stretching */
+  /* Set a maximum height for the images */
   transition: transform 0.2s; /* Scale up on hover */
+  
 }
 
 .large-photo:hover {

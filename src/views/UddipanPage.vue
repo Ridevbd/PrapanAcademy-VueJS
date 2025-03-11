@@ -1,7 +1,7 @@
     <template>
 
 
-    
+<!--     
      <section class="section section-lg bg-default">
         <div class="container">
           <div class="row row-50">
@@ -55,7 +55,7 @@
         </div>
      </section>
 
-    
+     -->
     
     </template>
     

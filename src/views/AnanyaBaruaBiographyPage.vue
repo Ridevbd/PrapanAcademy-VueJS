@@ -11,8 +11,8 @@
                   <p class="team-item-info-name-text">Founder, Senior Instructor</p>
                 </div>
                 <ul class="team-info-list">
-                  <li><span class="icon mdi mdi-phone"></span><a href="tel:#">1-800-123-1234</a></li>
-                  <li><span class="icon mdi mdi-email-outline"></span><a href="mailto:#">Info@demolink.org</a></li>
+                  <li><span class="icon mdi mdi-phone"></span><a href="tel:#">+880 01711-106808</a></li>
+                  <li><span class="icon mdi mdi-email-outline"></span><a href="mailto:#">ananyasprapan@gmail.com</a></li>
                   <li class="d-sm-block">
                     <ul class="social-list">
                       <li><a class="icon icon-sm fa-facebook" href="#"></a></li>
@@ -29,15 +29,15 @@
                     <div class="quote-primary-text">
                         <h3>Professional Roles</h3>
                 <ul class="list-dot">
-                    <li>Director, Prapan Academy, Chittagong</li>
-                    <li>Director, Trinity, Chittagong (Fashion Choreography, Creative & Modern Dance)</li>
-                    <li>Director, Uddipan, Bangladesh Buddhist Cultural Organization & Dance Group</li>
+                    <li>Director & Founder, Prapan Academy, Chittagong</li>
+                    <li>Director & Founder, Trinity, Chittagong (Fashion Choreography, Creative & Modern Dance)</li>
+                    <li>Director & Founder, Uddipan, Bangladesh Buddhist Cultural Organization & Dance Group</li>
                 </ul>
                     </div>
                   </div>
                   <div class="quote-primary-footer">
                     <div class="bg-dot"></div>
-                    <p class="quote-primary-cite"><img src="../assets/images/speaker.png" alt=""></p>
+                    <p class="quote-primary-cite"><img src="/assets/images/speaker.png" alt=""></p>
                   </div>
                 </article>
                 
@@ -45,7 +45,7 @@
             </div>
             <div class="col-lg-6">
               <div class="block-decorate-img">
-                <div class="block-decorate-inner"><img src="../assets/images/team-classic-1-391x252.jpg" alt="" width="440" height="462">
+                <div class="block-decorate-inner"><img src="/assets/images/team-classic-1-391x252.jpg" alt="" width="440" height="462">
                 </div>
               </div>
             </div>
@@ -57,19 +57,19 @@
         <div class="container">
          
           <div class="row">
-            <div class="col-12"><img class="img-group" src="../assets/images/biography/male-group.jpg" alt="" >
+            <div class="col-12"><img class="img-group" src="/assets/images/biography/male-group.jpg" alt="" >
             </div>
           </div>
           <div class="row row-50">
             <div class="col-lg-5 order-lg-5">
               <div class="row row-50">
-                <div class="col-sm-6 col-lg-12"><img src="../assets/images/biography/IMG_7985.jpg" alt="" width="398" height="283">
+                <div class="col-sm-6 col-lg-12"><img src="/assets/images/biography/IMG_7985.jpg" alt="" width="398" height="283">
                 </div>
-                <div class="col-sm-6 col-lg-12"><img src="../assets/images/biography/MG_1254.jpg" alt="" width="398" height="283">
+                <div class="col-sm-6 col-lg-12"><img src="/assets/images/biography/MG_1254.jpg" alt="" width="398" height="283">
                 </div>
-                <div class="col-sm-6 col-lg-12"><img src="../assets/images/biography/IMG_7981.jpg" alt="" width="398" height="283">
+                <div class="col-sm-6 col-lg-12"><img src="/assets/images/biography/IMG_7981.jpg" alt="" width="398" height="283">
                 </div>
-                <div class="col-sm-6 col-lg-12"><img src="../assets/images/biography/img111.jpg" alt="" width="398" height="283">
+                <div class="col-sm-6 col-lg-12"><img src="/assets/images/biography/img111.jpg" alt="" width="398" height="283">
                 </div>
               </div>
             </div>
@@ -94,11 +94,12 @@
                                 <li>Japan (1992) – Omachi City, Nagano, Tayama, Osaka, and Tokyo</li>
                                 <li>Switzerland (2001) – Geneva, Zurich, Lugano</li>
                                 <li>India (2002) – Madhusudan Theatre Hall, Dhakuria & Sai Nataraj Academy, Kolkata</li>
-                                <li>Nepal (2005) – Victory Day celebrations in Kathmandu (Dec 14-18, 2005)</li>
+                                <li>Nepal (2005) – (BD Govt Tour)Victory Day celebrations in Kathmandu (Dec 14-18, 2005)</li>
                                 <li>United Kingdom (2007) – Performances at Tower Hill, Tower of London, Gandhi Hall, and more</li>
                                 <li>Netherlands & France (2009) – BASU Organization cultural programs</li>
                                 <li>Kuwait (2011) – Bangladesh Embassy Cultural Event (May 1-3, 2011)</li>
                                 <li>Thailand (2012) – Buddhajayanti at MCU, Ayodhya, Bangkok (May 31 - June 3, 2012)</li>
+                                <li>Netherland & Belgium (2014)</li>
                             </ul>
                             <br>
                             <h5>Teaching & Practical Experience</h5>
@@ -124,8 +125,8 @@
                             </ul>
                             <br>
                             <h5>Contact Information</h5>
-                            <p><strong>Mobile:</strong> 01711-106808</p>
-                            <p><strong>Email:</strong> <a href="mailto:ananyactg7@yahoo.com">ananyactg7@yahoo.com</a></p>
+                            <p><strong>Mobile:</strong> +880 01711-106808</p>
+                            <p><strong>Email:</strong> <a href="ananyasprapan@gmail.com">ananyactg7@yahoo.com</a></p>
 
                     </div>
                   </div>

@@ -18,21 +18,22 @@
               <div class="wow fadeInUp">
                 <div class="team-classic">
                   <div class="team-classic-figure"> 
-                    <img src="../../assets/images/team-classic-1-391x252.jpg" alt="team-classic-1-391x252" width="391" height="252">
+                    <img src="/assets/images/team-classic-1-391x252.jpg" alt="team-classic-1-391x252" width="391" height="252">
                     <ul class="team-classic-soc-list">
                       <li>
-                        <a class="icon icon-md mdi mdi-facebook" href="#"></a>
+                        <a class="icon icon-md mdi mdi-facebook" href="https://www.facebook.com/prapanacademy" target="_blank" rel="noopener noreferrer"></a>
+
                       </li>
                       <li>
-                        <a class="icon icon-md mdi mdi-instagram" href="#"></a>
+                        <a class="icon icon-md mdi mdi-instagram"  href="https://www.facebook.com/prapanacademy"></a>
                       </li>
                       <li>
-                        <a class="icon icon-md mdi mdi-twitter" href="#"></a>
+                        <a class="icon icon-md mdi mdi-twitter"  href="https://www.facebook.com/prapanacademy"></a>
                       </li>
                     </ul>
                   </div>
                   <div class="team-classic-caption">
-                    <h4><a class="team-name" href="instructor-page.html">Ananya Barua</a></h4>
+                    <h4><router-link class="rd-nav-link" to="/ananyabaruabiography">Ananya Barua</router-link></h4>
                     <p>Founder, Senior Instructor</p>
                   </div>
                 </div>
